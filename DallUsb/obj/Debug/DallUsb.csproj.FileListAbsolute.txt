@@ -8,3 +8,13 @@ E:\c#\dall-usb\DallUsb\obj\Debug\DallUsb.csproj.GenerateResource.cache
 E:\c#\dall-usb\DallUsb\obj\Debug\DallUsb.csproj.CoreCompileInputs.cache
 E:\c#\dall-usb\DallUsb\obj\Debug\DallUsb.exe
 E:\c#\dall-usb\DallUsb\obj\Debug\DallUsb.pdb
+C:\Users\crlpw\Desktop\dall-usb\DallUsb\bin\Debug\DallUsb.exe.config
+C:\Users\crlpw\Desktop\dall-usb\DallUsb\bin\Debug\DallUsb.exe
+C:\Users\crlpw\Desktop\dall-usb\DallUsb\bin\Debug\DallUsb.pdb
+C:\Users\crlpw\Desktop\dall-usb\DallUsb\obj\Debug\DallUsb.csprojAssemblyReference.cache
+C:\Users\crlpw\Desktop\dall-usb\DallUsb\obj\Debug\DallUsb.Form1.resources
+C:\Users\crlpw\Desktop\dall-usb\DallUsb\obj\Debug\DallUsb.Properties.Resources.resources
+C:\Users\crlpw\Desktop\dall-usb\DallUsb\obj\Debug\DallUsb.csproj.GenerateResource.cache
+C:\Users\crlpw\Desktop\dall-usb\DallUsb\obj\Debug\DallUsb.csproj.CoreCompileInputs.cache
+C:\Users\crlpw\Desktop\dall-usb\DallUsb\obj\Debug\DallUsb.exe
+C:\Users\crlpw\Desktop\dall-usb\DallUsb\obj\Debug\DallUsb.pdb
